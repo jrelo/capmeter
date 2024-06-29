@@ -26,6 +26,7 @@ Capacitor discharged.
 2. **ESR Measurement:**
    - Charge the capacitor through a known series resistor.
    - Measure the voltage drop across the resistor to calculate ESR.
+   - This is likely very inaccurate. Learn more about Equivalent Series Resistance here: [All About Circuits - Determining Equivalent Series Resistance (ESR) of Capacitors](https://www.allaboutcircuits.com/technical-articles/determining-equivalent-series-resistance-esr-of-capacitors/)
 3. **Leakage Current Measurement:**
    - Charge the capacitor to a known voltage.
    - Measure the current flowing through the capacitor over time.
